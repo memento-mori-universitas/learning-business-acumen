@@ -1,3 +1,3 @@
 # Learning Business Acumen Project
       
-Links, reading notes and other resources are placed here
+- https://www.sitepoint.com/why-the-highest-paid-developers-fight-their-coworkers/
